@@ -27,5 +27,5 @@
     <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
     <string name="button_pause_download">一時停止</string>
     <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
-    <string name="notif_summary_paused">%dで一時停止中</string>
+    <string name="notif_summary_paused">%d で一時停止中</string>
 </resources>
